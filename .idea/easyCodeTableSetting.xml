@@ -113,9 +113,9 @@
               </option>
               <option name="name" value="SgArticle" />
               <option name="preName" value="sg_" />
-              <option name="saveModelName" value="yanfei-blog" />
+              <option name="saveModelName" value="yanfei-framework" />
               <option name="savePackageName" value="" />
-              <option name="savePath" value="./yanfei-blog/src/main/java" />
+              <option name="savePath" value="./yanfei-framework/src/main/java/org/example" />
               <option name="templateGroupName" value="MybatisPlus" />
             </TableInfoDTO>
           </value>
